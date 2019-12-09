@@ -1,0 +1,27 @@
+.topnav {
+    
+  overflow: hidden;
+  
+}
+
+.topnav a {
+  float: right;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.center {
+
+  width: 15%;
+  margin-left: 32%;
+  
+}
+.user {
+    
+    width: 10%;
+    height: 10%
+      
+}
