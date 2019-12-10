@@ -12,7 +12,7 @@ if ($_SESSION["dentro"]) {
     $datos = new consultas();
     $paginacion = new paginar();
 
-    $limite = 10;// eligo limite de campos que quiero ver
+    $limite = 5;// eligo limite de campos que quiero ver
 
     $pn = numeracion();  // saco el num de la pagina actual
 

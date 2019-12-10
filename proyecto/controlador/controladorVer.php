@@ -7,7 +7,7 @@ if ($_SESSION["dentro"]) {
     include_once __DIR__ . "/../modelo/consultas.php";
     include_once '../helpers/numeracion.php';
 
-    $limite = 10;//establezco limite de elementos para ver
+    $limite = 5;//establezco limite de elementos para ver
 
     $paginacion = new paginar();// llamo a la clase paginar
 
